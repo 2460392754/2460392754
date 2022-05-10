@@ -5,5 +5,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2460392754&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
 </p>
 
-### Blog
-[yuque-blog](https://www.yuque.com/pocky)
+
+[blog](https://blog.965.ink)
